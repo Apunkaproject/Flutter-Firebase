@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067124277634",
+    "project_id": "flutterhero-df739",
+    "storage_bucket": "flutterhero-df739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067124277634:android:ab0322b9cfb35da7ce0f9b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067124277634-q7ud22vk6lv71cfik8m94eqbfuej39tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD57ynMM5n9khwqNdk1OQTzGAsFE-KIgkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067124277634-q7ud22vk6lv71cfik8m94eqbfuej39tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
